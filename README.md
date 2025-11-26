@@ -19,14 +19,14 @@ Una vez pulsado el boton de Recargar Abono, la aplicación valida los datos intr
    - La cantidad debe ser mayor a 0. De lo contrario, se muestra un mensaje de error.
 
 3. **Selección de Mes**
-   - Mediante el componente `JMonthChooser`, el usuario selecciona el mes para el que se desea realizar la recarga.
+   - Mediante el componente `JMonthChooser`, el usuario puede seleccinar el mes para el que se desea realizar la recarga.
    - Se muestra el nombre del mes seleccionado en el mensaje de confirmación.
 
 4. **Confirmación de Recarga**
    - Si todos los campos son válidos, se muestra un mensaje de éxito indicando la cantidad recargada y el mes correspondiente.
 
 5. **Control de Cierre de Ventana**
-   - Al intentar cerrar la ventana, la aplicación solicita confirmación mediante un `JOptionPane`.
+   - Al intentar cerrar la ventana, la aplicación solicita confirmación mediante un `JOptionPane` que esta dentro de un `WindowListener`.
    - Solo si el usuario confirma, la aplicación se cierra correctamente.
 
 ---
@@ -42,7 +42,7 @@ Una vez pulsado el boton de Recargar Abono, la aplicación valida los datos intr
 
 ---
 
-## Uso
+## Como Usarla
 
 1. Ingresar el nombre de usuario.
 2. Introducir la contraseña (mínimo 8 caracteres).
