@@ -71,20 +71,4 @@ Una vez pulsado el boton de Recargar Abono, la aplicación valida los datos intr
 
 ## Requisitos
 
-- Java 8 o superior.
-- Librería `JCalendar` de Toedter para `JMonthChooser`.
-- IDE compatible con formularios `.form` de IntelliJ (opcional para modificar GUI).
-
----
-
-## Instalación
-
-1. Clonar el repositorio.
-2. Asegurarse de tener la librería `JCalendar` incluida en el proyecto.
-3. Compilar el proyecto y ejecutar la clase `Tren`.
-
----
-
-## Autor
-**Tu Nombre**  
-Proyecto de ejemplo de interfaz gráfica para recarga de abono de tren.
+- Tener la librería `JCalendar` de Toedter para `JMonthChooser`.
