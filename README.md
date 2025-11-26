@@ -1,4 +1,4 @@
-# Tren - Aplicación de Recarga de Abono
+# Aplicación de Recarga de Abono
 
 ## Descripción
 **Tren** es una aplicación de escritorio desarrollada en Java con Swing que permite a los usuarios recargar su abono mensual para el tren. La interfaz gráfica es sencilla e intuitiva, con campos para introducir usuario, contraseña, cantidad a recargar y selección del mes de la recarga.  
