@@ -57,9 +57,15 @@ Una vez pulsado el boton de Recargar Abono, la aplicación valida los datos intr
 
 ### Pantalla Principal
 
+<img width="602" height="497" alt="image" src="https://github.com/user-attachments/assets/9ef73165-ceb7-4703-a68d-96b8d437fd45" />
+
 ### Error por Campos Vacíos
 
+<img width="601" height="496" alt="image" src="https://github.com/user-attachments/assets/89a1138b-bd03-4dc7-9030-35090e7d1ccb" />
+
 ### Recarga Exitosa
+
+<img width="602" height="500" alt="image" src="https://github.com/user-attachments/assets/124a0860-598f-4b46-9c9a-7c00161e3168" />
 
 ---
 
