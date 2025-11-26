@@ -71,5 +71,5 @@ Una vez pulsado el boton de Recargar Abono, la aplicación valida los datos intr
 
 ## Requisitos
 
-- Tener la librería `JCalendar` de Toedter para `JMonthChooser`.
+- Tener la librería `JCalendar` de Toedter para usar el componente `JMonthChooser`.
 - Para poder implementarlo en nuestro proyecto deberemos darle a `File` luego a `Project Structure` después a `Modules` luego a la opción `Dependencies`, y por último tendremos que darle al símbolo `+` luego a `JAR or Directories` y seleccionar el archivo `JCalendar`.
