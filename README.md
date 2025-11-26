@@ -3,7 +3,7 @@
 ## Descripción
 Esta aplicación permite a los usuarios recargar su abono mensual para el tren. La interfaz gráfica incluye campos para introducir usuario, contraseña, cantidad a recargar y selección del mes de la recarga.  
 
-Una vez pilsado el boton de Recargar Abono, la aplicación valida los datos introducidos y muestra mensajes informativos según sea necesario, garantizando una experiencia de usuario clara y segura.
+Una vez pulsado el boton de Recargar Abono, la aplicación valida los datos introducidos y muestra mensajes informativos según sea necesario, garantizando una experiencia de usuario clara y segura.
 
 ---
 
