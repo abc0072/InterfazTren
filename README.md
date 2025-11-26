@@ -35,8 +35,8 @@ Una vez pulsado el boton de Recargar Abono, la aplicación valida los datos intr
 
 - **JTextField** `nombreUsuario` → Para ingresar el nombre del usuario.
 - **JPasswordField** `contraUsuario` → Para ingresar la contraseña.
-- **JSpinner** `dineroRecarga` → Para seleccionar la cantidad a recargar.
-- **JMonthChooser** `mesRecarga` → Para seleccionar el mes de la recarga.
+- **JSpinner** `dineroRecarga` → Para seleccionar la cantidad de dinero a recargar.
+- **JMonthChooser** `mesRecarga` → Para seleccionar el mes en el que hacer la recarga.
 - **JButton** `recargarAbonoButton` → Botón para realizar la recarga.
 - **JLabel** → Para mostrar títulos, iconos y etiquetas de los campos.
 
@@ -47,28 +47,19 @@ Una vez pulsado el boton de Recargar Abono, la aplicación valida los datos intr
 1. Ingresar el nombre de usuario.
 2. Introducir la contraseña (mínimo 8 caracteres).
 3. Seleccionar la cantidad de dinero a recargar.
-4. Elegir el mes para la recarga.
+4. Elegir el mes en el que hacer la recarga.
 5. Pulsar **Recargar Abono**.
-6. Verificar el mensaje de confirmación.
+6. Verificar el mensaje de confirmación al cerrar la ventana.
 
 ---
 
 ## Capturas de Pantalla
 
 ### Pantalla Principal
-*Aquí puedes añadir la captura de la ventana principal de la aplicación.*
-
-![Pantalla Principal](ruta/a/tu/captura1.png)
 
 ### Error por Campos Vacíos
-*Captura mostrando el mensaje de error al dejar el usuario o la contraseña vacíos.*
-
-![Error Campos Vacíos](ruta/a/tu/captura2.png)
 
 ### Recarga Exitosa
-*Captura mostrando el mensaje de éxito al recargar el abono.*
-
-![Recarga Exitosa](ruta/a/tu/captura3.png)
 
 ---
 
